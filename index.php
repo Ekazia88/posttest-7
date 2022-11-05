@@ -11,7 +11,7 @@
     <header class="mainshow">
         <div class="mainshow-top">
             <img src="./img/Animflix-Logo.png" alt="" />
-            <a href="#daftar" class="btn btn-rounded">Daftar</a>
+            <a href="register.php" class="btn btn-rounded">Daftar</a>
         </div>
         <div class="mainshow-content">
             <h1>Selamat datang Di ANIMFLIX</h1>
